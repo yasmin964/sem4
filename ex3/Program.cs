@@ -12,4 +12,4 @@ console.write("[");
 for (int i =0;i<7;i++);
 console.write($"{result[i]}");
 Console.WriteLine();
-Console.writeline();
+Conso.writeline();
