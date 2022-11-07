@@ -8,7 +8,8 @@ int GetPow(int A,int B)
     }
     return ans;
 }
-int numbera = ReadInt("Введите число A: ");
-int numberb = ReadInt("Введите число B: ");
-
+Console.Write("введите число а:");
+Console.Write("введите число b:");
+int N=int.Parse(Console.ReadLine()!);
+Console.WriteLine(GetPow(N));
 
