@@ -13,5 +13,3 @@
 // int N=int.Parse(Console.ReadLine()!);//считывает и образует строку
 // Console.WriteLine(GetProductofnumbers(N));
 
-
-
